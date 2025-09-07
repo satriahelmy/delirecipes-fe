@@ -1,3 +1,3 @@
 # Delirecipes Front End Project
 
-Delirecipes front end with react + vite typescript
+Delirecipes front end page
